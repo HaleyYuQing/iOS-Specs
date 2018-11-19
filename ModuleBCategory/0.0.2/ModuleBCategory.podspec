@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
                        TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/guangqiang-liu/ModuleB-Categorys'
+  s.homepage         = 'https://github.com/guangqiang-liu/ModuleB-Category'
   s.license          = "MIT"
   s.author           = { 'guangqiang' => '1126756952@qq.com' }
   s.source           = { :git => 'git@github.com:guangqiang-liu/ModuleB-Category.git', :tag => s.version.to_s }
